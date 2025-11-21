@@ -1,0 +1,14 @@
+.hero-img {
+  position: relative;
+  overflow: hidden;
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgb(0, 0, 0)),
+    url("../img/header-banner.jpg");
+  background-size: cover;
+  background-position: center right;
+  background-repeat: no-repeat;
+}
+
+.img-cover {
+  object-fit: cover;
+  aspect-ratio: 3/2;
+}
